@@ -1,4 +1,4 @@
-// MATH-PZL to JS-CODING
+// MATH-PZL to JS-CODING ( puzzle level: basic )
 92+3=73
 75+2=22
 84+3=43
