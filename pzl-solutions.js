@@ -20,10 +20,9 @@
     // step #05: Testing Result
 
 
-  // C O D I N G
+  // C O D I N G ( I solved it in 8 minutes )
 // step #01
 let n1=53, n2=3;
-
 const numValidators = (...nums) => {
   let validateNums = nums[0], response=null;
   // step #02
